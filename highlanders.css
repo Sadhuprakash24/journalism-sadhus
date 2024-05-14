@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.landers-bg{
+    background-color:rgb(89, 247, 131) ;
+    height: 150vh;
+    padding: 20px;
+    margin: 20px;
+    border:none;
+    border:dashed 4px white;
+    border-radius: 20px;
+    font-family: "Great Vibes", ;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 22px;
+    text-align: center;
+}
+.head{
+    color: black;
+    text-align: center;
+    padding: 10px;
+    text-decoration: underline white;
+    font-family: "Robotto";
+}
+.head:hover{
+    color: red;
+}
+img{
+    height: 70vh;
+    width: 60vw;
+    border-radius: 25px;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+img:hover{
+    box-shadow: 20px 20px 10px white;
+}
+
+
+marquee{
+    background-color: white;
+    color: red;
+    margin: 40px;
+    margin-top: 40px;
+    padding: 30px;
+    border: none;
+    border: dashed rgb(89, 247, 131) 5px;
+    font-weight: bold;
+    font-family: "Robotto";
+}
+div{
+    color: white;
+    font-family: "Great Vibes",cursive ;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 42px;
+    text-align: center;
+}
+a{
+    text-decoration: underline rgb(247, 58, 137);
+    color: white;
+}
+div:hover{
+    color:rgb(247, 58, 137)
+}
+a:hover{
+   color: rgb(247, 58, 137); 
+}

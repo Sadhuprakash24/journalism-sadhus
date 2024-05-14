@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.bg{
+    background-color: aqua;
+    color: black;
+    
+    text-align: center;
+    
+    background-image: url(street6.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 20px;
+    padding: 20px;
+    border: none;
+    border: 10px double white;
+    border-radius: 25px;
+    
+}
+.center{
+    text-align: center;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: aqua;
+    font-size: 42px;
+    text-decoration: underline white;
+    
+}
+.elakiya{
+    background-color: rgb(245, 43, 103);
+    margin-top: 200px;
+    color: white;
+    text-align: center;
+    height: 30px;
+    padding: 10px;
+    font-family: 'Robotto';
+    font-weight: bolder;
+    font-size: 25px;
+    border:none;
+
+    border: double white 5px;
+}
+h1:hover{
+    color:black;
+    background-color: white;
+    border-radius: 15px;
+}
+a{
+    color: white;
+    font-size: 28px;
+    font-weight: bolder;
+    font-family: "Robotto";
+    padding-top: 20px;
+    margin: 10px;
+}
+div{
+    padding: 10px;
+    margin: 10px;
+}
+a:hover{
+    color: rgb(245, 242, 43);
+}

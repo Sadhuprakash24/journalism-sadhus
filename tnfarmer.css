@@ -1,0 +1,118 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.farmer-bg {
+    margin: 15px;
+    padding: 15px;
+    background-image: url(farmers-suicides3.webp);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    
+    flex-wrap: wrap;
+    
+    height: 120vh;
+    
+    border: none;
+    border: dashed 4px white;
+    font-family: "Great Vibes", cursive;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 22px;
+
+}
+
+.farmer-cent {
+    background-color: white;
+    color: black;
+    border: none;
+    border: double 5px black;
+    border-radius: 25px;
+    text-align: center;
+    
+    align-items: center;
+    
+    
+    margin-top: 70px;
+    padding-left: 13px;
+    flex-wrap: wrap;
+    font-family: "Robotto";
+}
+
+div {
+    text-align: center;
+    padding: 10px;
+    flex-wrap: wrap;
+    
+    font-weight: bold;
+
+}
+
+img {
+    padding-top: 20px;
+    border: none;
+    border-radius: 25px;
+    
+    flex-wrap: wrap;
+    
+
+}
+
+.farmer-footer {
+    color: red;
+    -webkit-background-clip: text;
+
+    font-family: "Great Vibes", cursive;
+    font-weight: bolder;
+    font-style: normal;
+    font-size: 42px;
+    padding-top: 40px;
+
+
+    
+    padding: 10px;
+    margin: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.farmer-lab:hover {
+    color: red;
+    border: none;
+
+}
+
+.farmer-lab {
+    color: white;
+    padding-top: 25px;
+
+    font-weight: bold;
+}
+
+
+marquee{
+    list-style-type: none;
+    background-color: rgb(252, 44, 130);
+    color: black;
+    padding: 10px;
+    border-radius: 10px;
+    flex-wrap: wrap;
+    
+}
+img:hover{
+    box-shadow: 20px 20px 10px white;
+}
+a:hover{
+    color: rgb(252, 44, 130);
+    text-decoration: dotted red 10px;
+}
+a{
+    color: white;
+    text-decoration: underline rgb(252, 44, 130);
+    
+    flex-wrap: wrap;
+
+}
